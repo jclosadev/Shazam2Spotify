@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 3. Get your Shazam Library file
 
-Now go to [My Shazam](https://www.shazam.com/es-es/myshazam) Log in, and on the right side, click on **Download CSV** and you will get a *Sshazamlibrary.csv* and now go to the project where you cloned the repository and put the file in the library folder.
+Now go to [My Shazam](https://www.shazam.com/es-es/myshazam) Log in, and on the right side, click on **Download CSV** and you will get a *Shazamlibrary.csv* and now go to the project where you cloned the repository and put the file in the library folder.
 
 
 
