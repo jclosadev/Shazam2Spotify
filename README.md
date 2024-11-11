@@ -8,8 +8,6 @@ a tool that lets you quickly and automatically transfer your entire library of S
 
 # Installation
 
-> **Note**: For longer README files, I usually add a "Back to top" buttton as shown above. It makes it easy to navigate.
-
 **1. Clone the Repository**
 
 Start by cloning the repository to your local machine. Run the following command in your terminal:
@@ -31,6 +29,8 @@ Now go to [My Shazam](https://www.shazam.com/es-es/myshazam) Log in, and on the 
 
 # Usage
 [(Back to top)](#table-of-contents)
+
+> **Note**: Once you have used Shazam2Spotify at least once, it will automatically create a `.cache` file with the login data so that the next time you use it, you won't have to log in again.
 
 **1. Open a Terminal**
 
