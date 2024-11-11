@@ -7,7 +7,6 @@
 a tool that lets you quickly and automatically transfer your entire library of Shazam recognized songs to Spotify. This tool creates a new Spotify playlist with all the songs you’ve identified, so you can enjoy them all in one place without the need for manual searching and adding.
 
 # Installation
-[(Back to top)](#table-of-contents)
 
 > **Note**: For longer README files, I usually add a "Back to top" buttton as shown above. It makes it easy to navigate.
 
